@@ -9,9 +9,10 @@ npm install
 ### Run
 ```
 node server.js
-
+```
 ### Set port
 .env
+
 ```
 PORT=3001
 ```
@@ -23,3 +24,4 @@ In the project directory, you can run:
 ```
 npm install
 npm start
+```
